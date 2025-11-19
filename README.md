@@ -97,8 +97,6 @@ Event-driven programming
 
 Cybersecurity ethics
 
-Perfect for resumes, GitHub portfolios, internships, and MS in Cybersecurity applications.
-
 🔐 Ethical Disclaimer :
 This project is intended for:
 
